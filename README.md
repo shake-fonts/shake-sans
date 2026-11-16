@@ -21,7 +21,7 @@ Condensed와 Expanded는 너비를 조정하더라도 획 굵기가 일정하게
 - `variable/` 가변 TTF (굵기 100–900 × 너비 75–150) — Shake Sans Variable
 - `woff2/` 웹용 WOFF2
 
-가변 조정이 필요하면 `variable/`의 Shake Sans Variable을 설치하세요. Word 같은 오피스 앱에서는 정적 폰트 사용을 권장합니다.
+가변 조정 기능이 필요하면 `variable/`의 Shake Sans Variable을 설치하세요. Word 같은 오피스 앱에서는 정적 폰트 사용을 권장합니다.
 
 ## 웹폰트
 

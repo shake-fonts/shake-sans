@@ -1,6 +1,6 @@
 # Shake Sans
 
-한글과 영문이 한 문장에서 조화롭게 보이는 네오 그로테스크 산세리프 가변 글꼴입니다. [Asta Sans](https://github.com/42dot/Asta-Sans)의 한글과 [Geist](https://github.com/vercel/geist-font)의 영문·숫자를 한 벌로 맞췄고, 9가지 굵기(100–900)와 Condensed·Expanded 너비(75–150)를 제공합니다.
+한글과 영문이 한 문장에서 조화롭게 보이는 네오 그로테스크 산세리프 가변 폰트입니다. [Asta Sans](https://github.com/42dot/Asta-Sans)의 한글과 [Geist](https://github.com/vercel/geist-font)의 영문·숫자를 한 벌로 맞췄고, 9가지 굵기(100–900)와 Condensed·Expanded 너비(75–150)를 제공합니다.
 
 [소개 페이지](https://fonts.shake.st/sans)에서 직접 써 볼 수 있습니다.
 
@@ -21,7 +21,7 @@ Condensed와 Expanded는 너비를 조정하더라도 획 굵기가 일정하게
 - `variable/` 가변 TTF (굵기 100–900 × 너비 75–150) — Shake Sans Variable
 - `woff2/` 웹용 WOFF2
 
-Word 같은 오피스 앱에서는 정적 글꼴 사용을 권장합니다.
+가변 조정이 필요하면 `variable/`의 Shake Sans Variable을 설치하세요. Word 같은 오피스 앱에서는 정적 폰트 사용을 권장합니다.
 
 ## 웹폰트
 

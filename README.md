@@ -9,7 +9,7 @@ Condensed와 Expanded는 너비를 줄이거나 늘려도 세로획 굵기가 �
 
 ## 다운로드
 
-[최신 버전](https://github.com/shake-fonts/sans/releases/latest)
+[최신 버전](https://github.com/shake-fonts/shake-sans/releases/latest)
 
 - `static/` 굵기별 TTF — Shake Sans
 - `otf/` 굵기별 OTF — Shake Sans

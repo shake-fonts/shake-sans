@@ -21,7 +21,7 @@ Condensed와 Expanded는 너비를 조정하더라도 획 굵기가 일정하게
 - `variable/` 가변 TTF (굵기 100–900 × 너비 75–150) — Shake Sans Variable
 - `woff2/` 웹용 WOFF2
 
-정적 글꼴과 가변 글꼴은 이름이 달라 함께 설치해도 됩니다. Word 같은 오피스 앱에서는 정적 글꼴(`static/`, `otf/`)을 쓰세요.
+Word 같은 오피스 앱에서는 정적 글꼴 사용을 권장합니다.
 
 ## 웹폰트
 

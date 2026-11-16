@@ -39,7 +39,7 @@ body {
 .expanded {
   font-stretch: 150%;
 }
-/* 너비를 75–150% 사이에서 이어서 바꿀 때 */
+/* Variable 폰트 사용 시 */
 .variable {
   font-family: "Shake Sans Variable", sans-serif;
   font-stretch: 120%;

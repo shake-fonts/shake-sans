@@ -46,12 +46,12 @@ body {
 }
 ```
 
-`Shake Sans`는 쓰는 너비(75%·100%·150%)의 파일만 내려받습니다. 너비를 그 사이 값으로 쓰거나 움직이려면 굵기·너비 2축 파일인 `Shake Sans Variable`을 쓰세요.
+`Shake Sans`는 굵기만 가변이고 너비는 75%·100%·150% 세 가지입니다. 너비도 가변으로 조정하려면 `Shake Sans Variable`을 쓰세요.
 
 ## 라이선스
 
-[SIL Open Font License 1.1](OFL.txt)에 따라 상업적 용도를 포함해 자유롭게 쓰고, 수정하고, 재배포할 수 있습니다. 글꼴 파일만 따로 판매할 수는 없습니다.
+[SIL Open Font License 1.1](OFL.txt)에 따라 상업적 용도를 포함해 자유롭게 사용·수정·재배포할 수 있습니다. 단, 폰트 파일 자체를 단독으로 판매할 수는 없습니다. 자세한 내용은 라이선스 원문을 참고해 주세요.
 
-한글·약물·기호는 [Asta Sans](https://github.com/42dot/Asta-Sans) 1.000(42dot), 영문·숫자는 [Geist](https://github.com/vercel/geist-font) 1.800(Vercel, basement.studio)을 바탕으로 합니다. 저작자는 [AUTHORS.txt](AUTHORS.txt)에 있습니다.
+한글·약물·기호는 [Asta Sans](https://github.com/42dot/Asta-Sans) 1.000(42dot), 영문·숫자는 [Geist](https://github.com/vercel/geist-font) 1.800(Vercel, basement.studio)을 바탕으로 제작했습니다. 저작자는 [AUTHORS.txt](AUTHORS.txt)에 표기되어 있습니다.
 
 만든 사람: Shake · [Shake Studio](https://shake.st)

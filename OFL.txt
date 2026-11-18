@@ -1,4 +1,4 @@
-Copyright 2026 The Shake Sans Project Authors (https://github.com/shake-fonts/sans).
+Copyright 2026 The Shake Sans Project Authors (https://github.com/shake-fonts/shake-sans).
 Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).
 Copyright 2026 The Geist Project Authors (https://github.com/vercel/geist-font)
 Copyright (c) 2023 Vercel, in collaboration with basement.studio

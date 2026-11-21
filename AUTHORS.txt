@@ -3,8 +3,9 @@
 # "The Shake Sans Project Authors" in OFL.txt = Shake (the section below).
 # Shake Sans is a modified version of two OFL fonts. Their original authors are
 # credited further down; they are not affiliated with Shake Sans and do not endorse it.
+# Copyright in the original fonts stays with their authors and is kept in OFL.txt.
 #
-# OFL.txt 첫 줄의 "The Shake Sans Project Authors"는 Shake 한 사람이다 (바로 아래).
+# OFL.txt 첫 줄의 "The Shake Sans Project Authors"는 Shake다 (바로 아래).
 # Shake Sans는 아래 두 OFL 폰트를 합치고 고친 파생 폰트다. 원본 저작자는 크레딧으로 적을 뿐,
 # Shake Sans에 참여하거나 보증하지 않는다. 원본 저작권은 각 원본 저작자에게 있고 OFL.txt에 그대로 남긴다.
 

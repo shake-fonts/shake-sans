@@ -52,6 +52,6 @@ body {
 
 [SIL Open Font License 1.1](OFL.txt)에 따라 상업적 용도를 포함해 자유롭게 사용·수정·재배포할 수 있습니다. 단, 폰트 파일 자체를 단독으로 판매할 수는 없습니다. 'Shake Sans'는 예약된 폰트 이름(Reserved Font Name)이라, 고친 폰트를 배포할 때는 다른 이름을 써야 합니다. 자세한 내용은 라이선스 원문을 참고해 주세요.
 
-한글·약물·기호는 [Asta Sans](https://github.com/42dot/Asta-Sans) 1.000(42dot), 영문·숫자는 [Geist](https://github.com/vercel/geist-font) 1.800(Vercel, basement.studio)을 바탕으로 제작했습니다. 저작자는 [AUTHORS.txt](AUTHORS.txt)에 표기되어 있습니다.
+한글·약물·기호는 [Asta Sans](https://github.com/42dot/Asta-Sans) 1.000(42dot), 영문·숫자는 [Geist](https://github.com/vercel/geist-font) 1.800(Vercel, basement.studio)을 바탕으로 제작했습니다.
 
 만든 사람: Shake · [Shake Studio](https://shake.st)
